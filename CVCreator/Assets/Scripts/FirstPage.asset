@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ac84fdda291ae49a90c3c2870039e1, type: 3}
+  m_Name: FirstPage
+  m_EditorClassIdentifier: 
+  BackgroundLeftColor: {r: 0.27450982, g: 0.27450982, b: 0.27450982, a: 1}
+  BackgroundRightColor: {r: 0.19215687, g: 0.19215687, b: 0.19215687, a: 1}
+  TitleColor: {r: 1, g: 1, b: 1, a: 1}
+  SubtitleColor: {r: 0, g: 0.84496284, b: 0.9528302, a: 1}
+  SectionHeaderColor: {r: 1, g: 1, b: 1, a: 1}
+  SectionHeader2Color: {r: 0.007843138, g: 0.49411765, b: 0.56078434, a: 1}
+  BodyColor: {r: 1, g: 1, b: 1, a: 1}
+  Body2Color: {r: 0.007843138, g: 0.49411765, b: 0.56078434, a: 1}
+  BarColor: {r: 1, g: 1, b: 1, a: 1}
+  Bar2Color: {r: 0.007843138, g: 0.49411765, b: 0.56078434, a: 1}
+  PointColor: {r: 1, g: 1, b: 1, a: 1}
+  TextFont: {fileID: 0}
+  TitleFontSize: {x: 1, y: 1}
+  SubtitleFontSize: {x: 1, y: 1}
+  SectionHeaderFontSize: {x: 1, y: 1}
+  SectionHeader2FontSize: {x: 1, y: 1}
+  BodyFontSize: {x: 1, y: 1}
+  Body2FontSize: {x: 1, y: 1}
