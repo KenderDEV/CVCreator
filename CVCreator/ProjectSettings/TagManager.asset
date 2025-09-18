@@ -8,6 +8,8 @@ TagManager:
   - Text2
   - Text3
   - Text4
+  - Left
+  - Right
   layers:
   - Default
   - TransparentFX

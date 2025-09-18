@@ -17,9 +17,9 @@ MonoBehaviour:
   TitleColor: {r: 1, g: 1, b: 1, a: 1}
   SubtitleColor: {r: 0, g: 0.84496284, b: 0.9528302, a: 1}
   SectionHeaderColor: {r: 1, g: 1, b: 1, a: 1}
-  SectionHeader2Color: {r: 0.007843138, g: 0.49411765, b: 0.56078434, a: 1}
+  SectionHeader2Color: {r: 0.5896226, g: 1, b: 0.9356326, a: 1}
   BodyColor: {r: 1, g: 1, b: 1, a: 1}
-  Body2Color: {r: 0.007843138, g: 0.49411765, b: 0.56078434, a: 1}
+  Body2Color: {r: 0.5882353, g: 1, b: 0.9372549, a: 1}
   BarColor: {r: 1, g: 1, b: 1, a: 1}
   Bar2Color: {r: 0.007843138, g: 0.49411765, b: 0.56078434, a: 1}
   PointColor: {r: 1, g: 1, b: 1, a: 1}
